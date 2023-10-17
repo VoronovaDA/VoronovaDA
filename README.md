@@ -19,13 +19,12 @@
 ---
 
 ### :woman_technologist: About Me :
-I'm a full stack developer student at
- Netology  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and I'm from Russia.
+I'm completed a course in Netology <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and I'm from Russia.
 - :telescope: I want to work as a software engineer and work on the backend to create web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on Leetcode and read tech articles.
+- :zap: In my free time, I read books on Python and watch current videos.
 
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Missis_D)
 
