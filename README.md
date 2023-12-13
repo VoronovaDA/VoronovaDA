@@ -19,11 +19,11 @@
 ---
 
 ### Привет! 
-Я # Дарья # Воронова, начинающий разработчик на python.
+# Я Дарья Воронова, начинающий разработчик на python.
 
 ---
 
-### Мой стек :
+## Мой стек :
 Linux, Windows, Bash, Python, Django Framework, FastAPI, Flask, Asyncio, PostgreSQL, Nginx, Git, REST, Docker, Docker-compose
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -37,4 +37,19 @@ Linux, Windows, Bash, Python, Django Framework, FastAPI, Flask, Asyncio, Postgre
 </div>
 
 ---
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Missis_D)
+
+## Мои проекты:
+- [Курсовая работа "Резервное копирование"]([https://netology.ru/]([https://github.com/VoronovaDA/Course_work.py]))
+- [Командный проект "Профессиональная работа с Python"]([https://netology.ru/]([https://github.com/VoronovaDA/Team_project.py]))
+- [Django]([https://netology.ru/]([https://github.com/VoronovaDA/Django_HW.py]))
+- [Docker Compose]([https://netology.ru/]([https://github.com/VoronovaDA/Docker-compose]))
+- [Дипломная работа к профессии Python-разработчик]([https://netology.ru/]([https://github.com/VoronovaDA/Netology_pd_diplom]))
+- [Python и БД. ORM]([https://netology.ru/]([https://github.com/VoronovaDA/sqlalchemy-HW]))
+- [Объекты и классы. Инкапсуляция, наследование и полиморфизм]([https://netology.ru/]([https://github.com/VoronovaDA/OOP-homework]))
+- [Работа с PostgreSQL из Python]([https://netology.ru/]([https://github.com/VoronovaDA/SQL-HW]))
+- [Web-scrapping]([https://netology.ru/]([[(https://github.com/VoronovaDA/Web-scrapping.py)]))
+
+---
+
+## Мои сертификаты:
+- https://github.com/VoronovaDA/My_certificate
