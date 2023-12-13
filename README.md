@@ -39,17 +39,17 @@ Linux, Windows, Bash, Python, Django Framework, FastAPI, Flask, Asyncio, Postgre
 ---
 
 ## Мои проекты:
-- [Курсовая работа "Резервное копирование"]([https://github.com/VoronovaDA/Course_work.py])
-- [Командный проект "Профессиональная работа с Python"]([https://github.com/VoronovaDA/Team_project.py])
-- [Django]([https://github.com/VoronovaDA/Django_HW.py])
-- [Docker Compose]([https://github.com/VoronovaDA/Docker-compose])
-- [Дипломная работа к профессии Python-разработчик]([https://github.com/VoronovaDA/Netology_pd_diplom])
-- [Python и БД. ORM]([https://github.com/VoronovaDA/sqlalchemy-HW])
-- [Объекты и классы. Инкапсуляция, наследование и полиморфизм]([https://github.com/VoronovaDA/OOP-homework])
-- [Работа с PostgreSQL из Python]([https://github.com/VoronovaDA/SQL-HW])
-- [Web-scrapping]([(https://github.com/VoronovaDA/Web-scrapping.py)])
+- [Дипломная работа к профессии Python-разработчик](https://github.com/VoronovaDA/Netology_pd_diplom)
+- [Командный проект "Профессиональная работа с Python"](https://github.com/VoronovaDA/Team_project.py)
+- [Курсовая работа "Резервное копирование"](https://github.com/VoronovaDA/Course_work.py)
+- [Django](https://github.com/VoronovaDA/Django_HW.py)
+- [Docker Compose](https://github.com/VoronovaDA/Docker-compose)
+- [Python и БД. ORM](https://github.com/VoronovaDA/sqlalchemy-HW)
+- [Объекты и классы. Инкапсуляция, наследование и полиморфизм](https://github.com/VoronovaDA/OOP-homework)
+- [Работа с PostgreSQL из Python](https://github.com/VoronovaDA/SQL-HW)
+- [Web-scrapping]((https://github.com/VoronovaDA/Web-scrapping.py))
 
 ---
 
 ## Мои сертификаты:
-[Сертификаты Netology]([https://github.com/VoronovaDA/My_certificate])
+[Сертификаты Netology](https://github.com/VoronovaDA/My_certificate)
