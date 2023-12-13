@@ -18,19 +18,13 @@
 
 ---
 
-### :woman_technologist: About Me :
-I'm a Back-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  and I'm from Russia.
-- :telescope: I want to work as a software engineer and work on the backend to create web applications.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I read books on Python and watch current videos.
-
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Missis_D)
+### Привет! 
+Я # Дарья # Воронова, начинающий разработчик на python.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### Мой стек :
+Linux, Windows, Bash, Python, Django Framework, FastAPI, Flask, Asyncio, PostgreSQL, Nginx, Git, REST, Docker, Docker-compose
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"  title="Django" alt="Django" width="40" height="40"/>&nbsp;
@@ -43,3 +37,4 @@ I'm a Back-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 </div>
 
 ---
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Missis_D)
