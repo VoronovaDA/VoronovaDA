@@ -23,7 +23,7 @@
 ---
 
 ## Мой стек :
-Linux, Windows, Bash, Python, Django Framework, FastAPI, Flask, Asyncio, PostgreSQL, Nginx, Git, REST, Docker, Docker-compose
+Python, Django Framework, FastAPI, Flask, PostgreSQL, Nginx, Git, REST, Docker, Docker-compose
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"  title="Django" alt="Django" width="40" height="40"/>&nbsp;
