@@ -46,7 +46,7 @@ Linux, Windows, Bash, Python, Django Framework, FastAPI, Flask, Asyncio, Postgre
 - [Python и БД. ORM](https://github.com/VoronovaDA/sqlalchemy-HW)
 - [Объекты и классы. Инкапсуляция, наследование и полиморфизм](https://github.com/VoronovaDA/OOP-homework)
 - [Работа с PostgreSQL из Python](https://github.com/VoronovaDA/SQL-HW)
-- [Web-scrapping]((https://github.com/VoronovaDA/Web-scrapping.py))
+- [Web-scrapping](https://github.com/VoronovaDA/Web-scrapping.py)
 
 ---
 
